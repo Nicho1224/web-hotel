@@ -1,0 +1,56 @@
+# Instructions for Setting Up the Feedback System
+
+Follow these steps to update your database for the feedback management system:
+
+## Step 1: Import the SQL File
+
+1. Open phpMyAdmin (http://localhost/phpmyadmin/)
+2. Select your database (hotel_db)
+3. Go to the "Import" tab
+4. Click "Choose File" and select the `update_feedback_final.sql` file
+5. Click "Go" to execute the SQL statements
+
+## Step 2: Verify the Tables
+
+After importing, check that the `transaksi` table has these feedback-related columns:
+- `rating_feedback`
+- `kategori_feedback`
+- `judul_feedback`
+- `pesan_feedback`
+- `status_feedback`
+- `lampiran_feedback`
+- `waktu_feedback`
+- `balasan_feedback`
+- `waktu_balasan_feedback`
+- `id_admin_feedback`
+
+## Step 3: Test the System
+
+1. Log in as an administrator
+2. Click on "Manajemen Feedback" in the left sidebar
+3. You should see test feedback entries (if you included the sample data)
+4. Try responding to a feedback entry
+5. Test the "Mark as Complete" functionality
+
+## Troubleshooting
+
+If you encounter errors:
+
+1. Check the database column names
+   - The PHP code expects specific column names like `rating_feedback`, `status_feedback`, etc.
+   - Ensure these match what's in your database
+
+2. Check for syntax errors
+   - The SQL may need slight adjustments for your specific MariaDB version
+   - For MariaDB 10.4, you might need to remove `IF EXISTS` clauses
+
+3. Database connectivity
+   - Ensure your `config.php` file has the correct database credentials
+   - Check that the PDO connection is working properly
+
+## Notes
+
+- The feedback system is integrated with the transaction system
+- Feedback entries are associated with specific hotel bookings
+- Administrators can filter, respond to, and mark feedback as complete
+- End users can submit feedback through the my_feedback.php interface

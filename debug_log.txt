@@ -1,0 +1,4 @@
+Query: UPDATE transaksi SET tgl_checkin = 2025-05-31, tgl_checkout = 2025-06-01, total_harga = 300000 WHERE id_transaksi = 2
+Query: UPDATE transaksi SET tgl_checkin = 2025-05-31, tgl_checkout = 2025-06-02, total_harga = 600000 WHERE id_transaksi = 2
+Query: UPDATE transaksi SET tgl_checkin = 2025-06-01, tgl_checkout = 2025-06-02, total_harga = 300000 WHERE id_transaksi = 2
+Query: UPDATE transaksi SET tgl_checkin = 2025-06-01, tgl_checkout = 2025-06-02, total_harga = 300000 WHERE id_transaksi = 2

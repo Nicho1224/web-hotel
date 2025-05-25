@@ -1,0 +1,33 @@
+2025-05-25 12:41:48 - Request received
+POST data: Array
+(
+    [booking_id] => 2
+    [checkin] => 2025-05-31
+    [checkout] => 2025-06-01
+)
+
+2025-05-25 12:41:48 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'total_harga' in 'field list'
+2025-05-25 12:43:35 - Request received
+POST data: Array
+(
+    [booking_id] => 2
+    [checkin] => 2025-05-30
+    [checkout] => 2025-06-02
+)
+
+2025-05-25 16:10:00 - Request received
+POST data: Array
+(
+    [booking_id] => 2
+    [checkin] => 2025-05-30
+    [checkout] => 2025-06-03
+)
+
+2025-05-25 16:10:06 - Request received
+POST data: Array
+(
+    [booking_id] => 2
+    [checkin] => 2025-05-31
+    [checkout] => 2025-06-02
+)
+

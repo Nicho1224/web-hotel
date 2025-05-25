@@ -1,0 +1,4509 @@
+[2025-05-06 04:01:58] Process booking started
+[2025-05-06 04:01:58] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:01:58] POST data: Array
+(
+    [kamar_dipilih] => 37
+    [checkin] => 2025-05-07
+    [checkout] => 2025-05-08
+)
+
+[2025-05-06 04:01:58] User ID: 12
+[2025-05-06 04:01:58] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:01:58] Selected rooms: Array
+(
+    [0] => 37
+)
+
+[2025-05-06 04:01:58] Check-in: 2025-05-07, Check-out: 2025-05-08
+[2025-05-06 04:01:58] Transaction started
+[2025-05-06 04:01:58] Room details: Array
+(
+    [id_kamar] => 37
+    [nama] => Kamar 37
+    [bed] => Double
+    [keterangan] => Kamar nomor 37
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-06 04:01:58] Nights: 1, Subtotal: 300000
+[2025-05-06 04:01:58] Created invoice ID: 85
+[2025-05-06 04:01:58] Updated room status for room ID: 37
+[2025-05-06 04:01:58] Transaction committed successfully
+[2025-05-06 04:01:58] Process completed successfully with invoice ID: 85
+[2025-05-06 04:03:04] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:03:04] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:03:04] Rooms loaded: 40
+[2025-05-06 04:03:08] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:03:08] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:03:08] Rooms loaded: 40
+[2025-05-06 04:03:17] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:03:17] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:03:17] Rooms loaded: 40
+[2025-05-06 04:03:19] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:03:19] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:03:19] Rooms loaded: 40
+[2025-05-06 04:03:46] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:03:46] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:03:46] Rooms loaded: 40
+[2025-05-06 04:03:49] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:03:49] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:03:49] Rooms loaded: 40
+[2025-05-06 04:05:37] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:05:37] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:05:37] Rooms loaded: 40
+[2025-05-06 04:05:49] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:05:49] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:05:49] Rooms loaded: 40
+[2025-05-06 04:05:54] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:05:54] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:05:54] Rooms loaded: 40
+[2025-05-06 04:06:20] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:06:20] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:06:20] Rooms loaded: 40
+[2025-05-06 04:06:21] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:06:21] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:06:21] Rooms loaded: 40
+[2025-05-06 04:06:21] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:06:21] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:06:21] Rooms loaded: 40
+[2025-05-06 04:06:21] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:06:21] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:06:21] Rooms loaded: 40
+[2025-05-06 04:13:31] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:13:31] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:13:31] Rooms loaded: 40
+[2025-05-06 04:14:59] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:14:59] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:14:59] Rooms loaded: 40
+[2025-05-06 04:18:41] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:18:41] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:18:41] Rooms loaded: 40
+[2025-05-06 04:20:33] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:20:33] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:20:33] Rooms loaded: 40
+[2025-05-06 04:20:38] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:20:38] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:20:38] Rooms loaded: 40
+[2025-05-06 04:22:59] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:22:59] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:22:59] Rooms loaded: 40
+[2025-05-06 04:25:10] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:25:10] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:25:10] Rooms loaded: 40
+[2025-05-06 04:29:24] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:29:24] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:29:24] Rooms loaded: 40
+[2025-05-06 04:29:41] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:29:41] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 07:50:57
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:29:41] Rooms loaded: 40
+[2025-05-06 04:33:20] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:33:20] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:33:20] Rooms loaded: 40
+[2025-05-06 04:33:31] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 04:33:31] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 04:33:31] Rooms loaded: 40
+[2025-05-06 05:02:21] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:02:21] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:02:21] Rooms loaded: 40
+[2025-05-06 05:02:34] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:02:34] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:02:34] Rooms loaded: 40
+[2025-05-06 05:03:11] Process booking started
+[2025-05-06 05:03:11] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:03:11] POST data: Array
+(
+    [kamar_dipilih] => 40
+    [checkin] => 2025-05-07
+    [checkout] => 2025-05-08
+    [payment_method] => mandiri
+)
+
+[2025-05-06 05:03:11] User ID: 12
+[2025-05-06 05:03:11] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:03:11] Selected rooms: Array
+(
+    [0] => 40
+)
+
+[2025-05-06 05:03:11] Check-in: 2025-05-07, Check-out: 2025-05-08
+[2025-05-06 05:03:11] Transaction started
+[2025-05-06 05:03:11] Room details: Array
+(
+    [id_kamar] => 40
+    [nama] => Kamar 40
+    [bed] => Double
+    [keterangan] => Kamar nomor 40
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-06 05:03:11] Nights: 1, Subtotal: 300000
+[2025-05-06 05:03:11] Transaction rolled back due to error
+[2025-05-06 05:03:11] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'metode_pembayaran' in 'field list'
+[2025-05-06 05:03:11] Stack trace: #0 C:\xampp\htdocs\project3\NiceAdmin\process_booking.php(145): PDOStatement->execute(Array)
+#1 {main}
+[2025-05-06 05:06:02] Process booking started
+[2025-05-06 05:06:02] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:06:02] POST data: Array
+(
+    [kamar_dipilih] => 40
+    [checkin] => 2025-05-07
+    [checkout] => 2025-05-08
+    [payment_method] => mandiri
+)
+
+[2025-05-06 05:06:02] User ID: 12
+[2025-05-06 05:06:02] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:06:02] Selected rooms: Array
+(
+    [0] => 40
+)
+
+[2025-05-06 05:06:02] Check-in: 2025-05-07, Check-out: 2025-05-08
+[2025-05-06 05:06:02] Transaction started
+[2025-05-06 05:06:02] Room details: Array
+(
+    [id_kamar] => 40
+    [nama] => Kamar 40
+    [bed] => Double
+    [keterangan] => Kamar nomor 40
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-06 05:06:02] Nights: 1, Subtotal: 300000
+[2025-05-06 05:06:02] Created invoice ID: 86
+[2025-05-06 05:06:02] Updated room status for room ID: 40
+[2025-05-06 05:06:02] Transaction committed successfully
+[2025-05-06 05:06:02] Process completed successfully with invoice ID: 86
+[2025-05-06 05:06:48] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:06:48] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:06:48] Rooms loaded: 40
+[2025-05-06 05:06:54] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:06:54] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:06:54] Rooms loaded: 40
+[2025-05-06 05:10:00] Process booking started
+[2025-05-06 05:10:00] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:10:00] POST data: Array
+(
+    [kamar_dipilih] => 38
+    [checkin] => 2025-05-07
+    [checkout] => 2025-05-08
+    [payment_method] => ovo
+)
+
+[2025-05-06 05:10:00] User ID: 12
+[2025-05-06 05:10:00] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:10:00] Selected rooms: Array
+(
+    [0] => 38
+)
+
+[2025-05-06 05:10:00] Check-in: 2025-05-07, Check-out: 2025-05-08
+[2025-05-06 05:10:00] Transaction started
+[2025-05-06 05:10:00] Room details: Array
+(
+    [id_kamar] => 38
+    [nama] => Kamar 38
+    [bed] => Double
+    [keterangan] => Kamar nomor 38
+    [jenis] => Deluxe
+    [harga] => 500000.00
+    [status] => tersedia
+)
+
+[2025-05-06 05:10:00] Nights: 1, Subtotal: 500000
+[2025-05-06 05:10:00] Created invoice ID: 87
+[2025-05-06 05:10:00] Updated room status for room ID: 38
+[2025-05-06 05:10:00] Transaction committed successfully
+[2025-05-06 05:10:00] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'kode_pembayaran' in 'field list'
+[2025-05-06 05:10:00] Stack trace: #0 C:\xampp\htdocs\project3\NiceAdmin\process_booking.php(179): PDOStatement->execute(Array)
+#1 {main}
+[2025-05-06 05:10:03] Process booking started
+[2025-05-06 05:10:03] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:10:03] POST data: Array
+(
+    [kamar_dipilih] => 38
+    [checkin] => 2025-05-07
+    [checkout] => 2025-05-08
+    [payment_method] => ovo
+)
+
+[2025-05-06 05:10:03] User ID: 12
+[2025-05-06 05:10:03] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:10:03] Selected rooms: Array
+(
+    [0] => 38
+)
+
+[2025-05-06 05:10:03] Check-in: 2025-05-07, Check-out: 2025-05-08
+[2025-05-06 05:10:03] Transaction started
+[2025-05-06 05:10:03] Room not available: 38, status: tidak tersedia
+[2025-05-06 05:10:03] Transaction rolled back due to error
+[2025-05-06 05:10:03] Error: Kamar Kamar 38 tidak tersedia
+[2025-05-06 05:10:03] Stack trace: #0 {main}
+[2025-05-06 05:10:06] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:10:06] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:10:06] Rooms loaded: 40
+[2025-05-06 05:10:14] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:10:14] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:10:14] Rooms loaded: 40
+[2025-05-06 05:13:46] Process booking started
+[2025-05-06 05:13:46] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:13:46] POST data: Array
+(
+    [kamar_dipilih] => 39
+    [checkin] => 2025-05-07
+    [checkout] => 2025-05-09
+    [payment_method] => mandiri
+)
+
+[2025-05-06 05:13:46] User ID: 12
+[2025-05-06 05:13:46] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:13:46] Selected rooms: Array
+(
+    [0] => 39
+)
+
+[2025-05-06 05:13:46] Check-in: 2025-05-07, Check-out: 2025-05-09
+[2025-05-06 05:13:46] Transaction started
+[2025-05-06 05:13:46] Room details: Array
+(
+    [id_kamar] => 39
+    [nama] => Kamar 39
+    [bed] => Double
+    [keterangan] => Kamar nomor 39
+    [jenis] => Suite
+    [harga] => 700000.00
+    [status] => tersedia
+)
+
+[2025-05-06 05:13:46] Nights: 2, Subtotal: 1400000
+[2025-05-06 05:13:46] Created invoice ID: 88
+[2025-05-06 05:13:46] Updated room status for room ID: 39
+[2025-05-06 05:13:46] Transaction committed successfully
+[2025-05-06 05:13:46] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'kode_pembayaran' in 'field list'
+[2025-05-06 05:13:46] Stack trace: #0 C:\xampp\htdocs\project3\NiceAdmin\process_booking.php(179): PDOStatement->execute(Array)
+#1 {main}
+[2025-05-06 05:13:50] Process booking started
+[2025-05-06 05:13:50] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:13:50] POST data: Array
+(
+    [kamar_dipilih] => 39
+    [checkin] => 2025-05-07
+    [checkout] => 2025-05-09
+    [payment_method] => mandiri
+)
+
+[2025-05-06 05:13:50] User ID: 12
+[2025-05-06 05:13:50] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:13:50] Selected rooms: Array
+(
+    [0] => 39
+)
+
+[2025-05-06 05:13:50] Check-in: 2025-05-07, Check-out: 2025-05-09
+[2025-05-06 05:13:50] Transaction started
+[2025-05-06 05:13:50] Room not available: 39, status: tidak tersedia
+[2025-05-06 05:13:50] Transaction rolled back due to error
+[2025-05-06 05:13:50] Error: Kamar Kamar 39 tidak tersedia
+[2025-05-06 05:13:50] Stack trace: #0 {main}
+[2025-05-06 05:13:54] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:13:54] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:13:54] Rooms loaded: 40
+[2025-05-06 05:16:16] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:16:16] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:16:16] Rooms loaded: 40
+[2025-05-06 05:19:30] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:19:30] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:19:30] Rooms loaded: 40
+[2025-05-06 05:19:43] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:19:43] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:19:43] Rooms loaded: 40
+[2025-05-06 05:26:53] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:26:53] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 09:32:43
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:26:53] Rooms loaded: 40
+[2025-05-06 05:36:03] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:36:03] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 1
+    [unread_user] => 0
+)
+
+[2025-05-06 05:36:03] Rooms loaded: 40
+[2025-05-06 05:36:10] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:36:10] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 1
+    [unread_user] => 0
+)
+
+[2025-05-06 05:36:10] Rooms loaded: 40
+[2025-05-06 05:36:16] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:36:16] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 1
+    [unread_user] => 0
+)
+
+[2025-05-06 05:36:16] Rooms loaded: 40
+[2025-05-06 05:36:19] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:36:19] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 1
+    [unread_user] => 0
+)
+
+[2025-05-06 05:36:19] Rooms loaded: 40
+[2025-05-06 05:39:17] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:39:17] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 1
+    [unread_user] => 0
+)
+
+[2025-05-06 05:39:17] Rooms loaded: 40
+[2025-05-06 05:40:57] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:40:57] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:40:57] Rooms loaded: 40
+[2025-05-06 05:41:02] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:41:02] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:41:02] Rooms loaded: 40
+[2025-05-06 05:43:29] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:43:29] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:43:29] Rooms loaded: 40
+[2025-05-06 05:45:50] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:45:50] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:45:50] Rooms loaded: 40
+[2025-05-06 05:50:22] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:50:22] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:50:22] Rooms loaded: 40
+[2025-05-06 05:51:54] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:51:54] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:51:54] Rooms loaded: 40
+[2025-05-06 05:52:09] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:52:09] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:52:09] Rooms loaded: 40
+[2025-05-06 05:59:58] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 05:59:58] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 05:59:58] Rooms loaded: 40
+[2025-05-06 06:05:34] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 06:05:34] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 06:05:34] Rooms loaded: 40
+[2025-05-06 06:06:51] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 06:06:51] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 06:06:51] Rooms loaded: 40
+[2025-05-06 06:07:04] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 06:07:04] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 06:07:04] Rooms loaded: 40
+[2025-05-06 06:09:17] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 06:09:17] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 10:27:53
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"681981a6a787b","from":"12","to":"1","message":"hii","time":"2025-05-06 05:27:34","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-06 06:09:17] Rooms loaded: 40
+[2025-05-06 13:34:43] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 13:34:43] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 13:21:00
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"6819aacd3df4b","from":"12","to":"1","message":"xss","time":"2025-05-06 08:23:09","status":"terkirim","lampiran":[]},{"id":"6819ab6bdb92c","from":"12","to":"1","message":"aa","time":"2025-05-06 08:25:47","status":"terkirim","lampiran":[]},{"id":"6819ac9e70bd3","from":"12","to":"1","message":"sss","time":"2025-05-06 08:30:54","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 3
+    [unread_user] => 0
+)
+
+[2025-05-06 13:34:43] Rooms loaded: 40
+[2025-05-06 13:34:55] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 13:34:55] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 13:21:00
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"6819aacd3df4b","from":"12","to":"1","message":"xss","time":"2025-05-06 08:23:09","status":"terkirim","lampiran":[]},{"id":"6819ab6bdb92c","from":"12","to":"1","message":"aa","time":"2025-05-06 08:25:47","status":"terkirim","lampiran":[]},{"id":"6819ac9e70bd3","from":"12","to":"1","message":"sss","time":"2025-05-06 08:30:54","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 3
+    [unread_user] => 0
+)
+
+[2025-05-06 13:34:55] Rooms loaded: 40
+[2025-05-06 13:40:25] SESSION in user_pemesanan: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-06 13:40:25] User data loaded: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-06 13:21:00
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"6819aacd3df4b","from":"12","to":"1","message":"xss","time":"2025-05-06 08:23:09","status":"terkirim","lampiran":[]},{"id":"6819ab6bdb92c","from":"12","to":"1","message":"aa","time":"2025-05-06 08:25:47","status":"terkirim","lampiran":[]},{"id":"6819ac9e70bd3","from":"12","to":"1","message":"sss","time":"2025-05-06 08:30:54","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 3
+    [unread_user] => 0
+)
+
+[2025-05-06 13:40:25] Rooms loaded: 40
+[2025-05-12 19:30:39] Process booking started
+[2025-05-12 19:30:39] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-12 19:30:39] POST data: Array
+(
+    [checkin] => 2025-05-15
+    [checkout] => 2025-05-22
+    [payment_method] => 
+    [kamar_dipilih] => 1
+)
+
+[2025-05-12 19:30:39] User ID: 12
+[2025-05-12 19:30:39] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-11 02:09:42
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-12 19:30:39] Selected rooms: Array
+(
+    [0] => 1
+)
+
+[2025-05-12 19:30:39] Check-in: 2025-05-15, Check-out: 2025-05-22
+[2025-05-12 19:30:39] Transaction started
+[2025-05-12 19:30:39] Room details: Array
+(
+    [id_kamar] => 1
+    [nama] => Deluxe Room
+    [bed] => Double
+    [keterangan] => Kamar nomor 1
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-12 19:30:39] Nights: 7, Subtotal: 2100000
+[2025-05-12 19:30:39] Created invoice ID: 89
+[2025-05-12 19:30:39] Updated room status for room ID: 1
+[2025-05-12 19:30:39] Transaction committed successfully
+[2025-05-12 19:30:39] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'kode_pembayaran' in 'field list'
+[2025-05-12 19:30:39] Stack trace: #0 C:\xampp\htdocs\project3\NiceAdmin\process_booking.php(179): PDOStatement->execute(Array)
+#1 {main}
+[2025-05-12 19:34:23] Process booking started
+[2025-05-12 19:34:23] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-12 19:34:23] POST data: Array
+(
+    [checkin] => 2025-05-14
+    [checkout] => 2025-05-17
+    [payment_method] => 
+    [kamar_dipilih] => 4
+)
+
+[2025-05-12 19:34:23] User ID: 12
+[2025-05-12 19:34:23] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-11 02:09:42
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-12 19:34:23] Selected rooms: Array
+(
+    [0] => 4
+)
+
+[2025-05-12 19:34:23] Check-in: 2025-05-14, Check-out: 2025-05-17
+[2025-05-12 19:34:23] Transaction started
+[2025-05-12 19:34:23] Room details: Array
+(
+    [id_kamar] => 4
+    [nama] => Kamar 4
+    [bed] => Double
+    [keterangan] => Kamar nomor 4
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-12 19:34:23] Nights: 3, Subtotal: 900000
+[2025-05-12 19:34:23] Created invoice ID: 90
+[2025-05-12 19:34:23] Updated room status for room ID: 4
+[2025-05-12 19:34:23] Transaction committed successfully
+[2025-05-12 19:34:23] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'kode_pembayaran' in 'field list'
+[2025-05-12 19:34:23] Stack trace: #0 C:\xampp\htdocs\project3\NiceAdmin\process_booking.php(179): PDOStatement->execute(Array)
+#1 {main}
+[2025-05-12 19:34:30] Process booking started
+[2025-05-12 19:34:30] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-12 19:34:30] POST data: Array
+(
+    [kamar_dipilih] => 4
+    [checkin] => 2025-05-14
+    [checkout] => 2025-05-17
+    [payment_method] => gopay
+)
+
+[2025-05-12 19:34:30] User ID: 12
+[2025-05-12 19:34:30] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-11 02:09:42
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-12 19:34:30] Selected rooms: Array
+(
+    [0] => 4
+)
+
+[2025-05-12 19:34:30] Check-in: 2025-05-14, Check-out: 2025-05-17
+[2025-05-12 19:34:30] Transaction started
+[2025-05-12 19:34:30] Room not available: 4, status: tidak tersedia
+[2025-05-12 19:34:30] Transaction rolled back due to error
+[2025-05-12 19:34:30] Error: Kamar Kamar 4 tidak tersedia
+[2025-05-12 19:34:30] Stack trace: #0 {main}
+[2025-05-12 19:35:09] Process booking started
+[2025-05-12 19:35:09] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-12 19:35:09] POST data: Array
+(
+    [checkin] => 2025-05-14
+    [checkout] => 2025-05-17
+    [payment_method] => 
+    [kamar_dipilih] => 7
+)
+
+[2025-05-12 19:35:09] User ID: 12
+[2025-05-12 19:35:09] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-11 02:09:42
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-12 19:35:09] Selected rooms: Array
+(
+    [0] => 7
+)
+
+[2025-05-12 19:35:09] Check-in: 2025-05-14, Check-out: 2025-05-17
+[2025-05-12 19:35:09] Transaction started
+[2025-05-12 19:35:09] Room details: Array
+(
+    [id_kamar] => 7
+    [nama] => Kamar 7
+    [bed] => Double
+    [keterangan] => Kamar nomor 7
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-12 19:35:09] Nights: 3, Subtotal: 900000
+[2025-05-12 19:35:09] Created invoice ID: 91
+[2025-05-12 19:35:09] Updated room status for room ID: 7
+[2025-05-12 19:35:09] Transaction committed successfully
+[2025-05-12 19:35:09] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'kode_pembayaran' in 'field list'
+[2025-05-12 19:35:09] Stack trace: #0 C:\xampp\htdocs\project3\NiceAdmin\process_booking.php(179): PDOStatement->execute(Array)
+#1 {main}
+[2025-05-12 19:37:42] Process booking started
+[2025-05-12 19:37:42] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-12 19:37:42] POST data: Array
+(
+    [kamar_dipilih] => 7
+    [checkin] => 2025-05-14
+    [checkout] => 2025-05-17
+    [payment_method] => ovo
+)
+
+[2025-05-12 19:37:42] User ID: 12
+[2025-05-12 19:37:42] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-11 02:09:42
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-12 19:37:42] Selected rooms: Array
+(
+    [0] => 7
+)
+
+[2025-05-12 19:37:42] Check-in: 2025-05-14, Check-out: 2025-05-17
+[2025-05-12 19:37:42] Transaction started
+[2025-05-12 19:37:42] Room not available: 7, status: tidak tersedia
+[2025-05-12 19:37:42] Transaction rolled back due to error
+[2025-05-12 19:37:42] Error: Kamar Kamar 7 tidak tersedia
+[2025-05-12 19:37:42] Stack trace: #0 {main}
+[2025-05-12 19:42:02] Process booking started
+[2025-05-12 19:42:02] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-12 19:42:02] POST data: Array
+(
+    [checkin] => 2025-05-15
+    [checkout] => 2025-05-18
+    [payment_method] => 
+    [kamar_dipilih] => 10
+)
+
+[2025-05-12 19:42:02] User ID: 12
+[2025-05-12 19:42:02] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-11 02:09:42
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-12 19:42:02] Selected rooms: Array
+(
+    [0] => 10
+)
+
+[2025-05-12 19:42:02] Check-in: 2025-05-15, Check-out: 2025-05-18
+[2025-05-12 19:42:02] Transaction started
+[2025-05-12 19:42:02] Room details: Array
+(
+    [id_kamar] => 10
+    [nama] => Kamar 10
+    [bed] => Double
+    [keterangan] => Kamar nomor 10
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-12 19:42:02] Nights: 3, Subtotal: 900000
+[2025-05-12 19:42:02] Created invoice ID: 92
+[2025-05-12 19:42:02] Updated room status for room ID: 10
+[2025-05-12 19:42:02] Transaction committed successfully
+[2025-05-12 19:42:02] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'kode_pembayaran' in 'field list'
+[2025-05-12 19:42:02] Stack trace: #0 C:\xampp\htdocs\project3\NiceAdmin\process_booking.php(179): PDOStatement->execute(Array)
+#1 {main}
+[2025-05-12 19:43:22] Process booking started
+[2025-05-12 19:43:22] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-12 19:43:22] POST data: Array
+(
+    [kamar_dipilih] => 10
+    [checkin] => 2025-05-15
+    [checkout] => 2025-05-18
+    [payment_method] => ovo
+)
+
+[2025-05-12 19:43:22] User ID: 12
+[2025-05-12 19:43:22] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-11 02:09:42
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-12 19:43:22] Selected rooms: Array
+(
+    [0] => 10
+)
+
+[2025-05-12 19:43:22] Check-in: 2025-05-15, Check-out: 2025-05-18
+[2025-05-12 19:43:22] Transaction started
+[2025-05-12 19:43:22] Room not available: 10, status: tidak tersedia
+[2025-05-12 19:43:22] Transaction rolled back due to error
+[2025-05-12 19:43:22] Error: Kamar Kamar 10 tidak tersedia
+[2025-05-12 19:43:22] Stack trace: #0 {main}
+[2025-05-12 19:43:38] Process booking started
+[2025-05-12 19:43:38] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-12 19:43:38] POST data: Array
+(
+    [checkin] => 2025-05-14
+    [checkout] => 2025-05-17
+    [payment_method] => 
+    [kamar_dipilih] => 13
+)
+
+[2025-05-12 19:43:38] User ID: 12
+[2025-05-12 19:43:38] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-11 02:09:42
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-12 19:43:38] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-12 19:43:38] Check-in: 2025-05-14, Check-out: 2025-05-17
+[2025-05-12 19:43:38] Transaction started
+[2025-05-12 19:43:38] Room details: Array
+(
+    [id_kamar] => 13
+    [nama] => Kamar 13
+    [bed] => Double
+    [keterangan] => Kamar nomor 13
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-12 19:43:38] Nights: 3, Subtotal: 900000
+[2025-05-12 19:43:38] Created invoice ID: 93
+[2025-05-12 19:43:38] Updated room status for room ID: 13
+[2025-05-12 19:43:38] Transaction committed successfully
+[2025-05-12 19:43:38] Process completed successfully with invoice ID: 93
+[2025-05-12 19:45:03] Process booking started
+[2025-05-12 19:45:03] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_93] => 202505120093
+    [payment_method_93] => 
+)
+
+[2025-05-12 19:45:03] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-14
+    [checkout] => 2025-05-17
+    [payment_method] => gopay
+)
+
+[2025-05-12 19:45:03] User ID: 12
+[2025-05-12 19:45:03] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-11 02:09:42
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-12 19:45:03] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-12 19:45:03] Check-in: 2025-05-14, Check-out: 2025-05-17
+[2025-05-12 19:45:03] Transaction started
+[2025-05-12 19:45:03] Room not available: 13, status: tidak tersedia
+[2025-05-12 19:45:03] Transaction rolled back due to error
+[2025-05-12 19:45:03] Error: Kamar Kamar 13 tidak tersedia
+[2025-05-12 19:45:03] Stack trace: #0 {main}
+[2025-05-12 19:45:16] Process booking started
+[2025-05-12 19:45:16] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_93] => 202505120093
+    [payment_method_93] => 
+)
+
+[2025-05-12 19:45:16] POST data: Array
+(
+    [checkin] => 2025-05-15
+    [checkout] => 2025-05-17
+    [payment_method] => 
+    [kamar_dipilih] => 16
+)
+
+[2025-05-12 19:45:16] User ID: 12
+[2025-05-12 19:45:16] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-11 02:09:42
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-12 19:45:16] Selected rooms: Array
+(
+    [0] => 16
+)
+
+[2025-05-12 19:45:16] Check-in: 2025-05-15, Check-out: 2025-05-17
+[2025-05-12 19:45:16] Transaction started
+[2025-05-12 19:45:16] Room details: Array
+(
+    [id_kamar] => 16
+    [nama] => Kamar 16
+    [bed] => Double
+    [keterangan] => Kamar nomor 16
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-12 19:45:16] Nights: 2, Subtotal: 600000
+[2025-05-12 19:45:16] Created invoice ID: 94
+[2025-05-12 19:45:16] Updated room status for room ID: 16
+[2025-05-12 19:45:16] Transaction committed successfully
+[2025-05-12 19:45:16] Process completed successfully with invoice ID: 94
+[2025-05-12 19:51:55] Process booking started
+[2025-05-12 19:51:55] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_93] => 202505120093
+    [payment_method_93] => 
+    [payment_code_94] => 202505120094
+    [payment_method_94] => 
+)
+
+[2025-05-12 19:51:55] POST data: Array
+(
+    [kamar_dipilih] => 19
+    [checkin] => 2025-05-14
+    [checkout] => 2025-05-17
+    [payment_method] => ovo
+)
+
+[2025-05-12 19:51:55] User ID: 12
+[2025-05-12 19:51:55] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-11 02:09:42
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-12 19:51:55] Selected rooms: Array
+(
+    [0] => 19
+)
+
+[2025-05-12 19:51:55] Check-in: 2025-05-14, Check-out: 2025-05-17
+[2025-05-12 19:51:55] Transaction started
+[2025-05-12 19:51:55] Room details: Array
+(
+    [id_kamar] => 19
+    [nama] => Kamar 19
+    [bed] => Double
+    [keterangan] => Kamar nomor 19
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-12 19:51:55] Nights: 3, Subtotal: 900000
+[2025-05-12 19:51:55] Created invoice ID: 95
+[2025-05-12 19:51:55] Updated room status for room ID: 19
+[2025-05-12 19:51:55] Transaction committed successfully
+[2025-05-12 19:51:55] Process completed successfully with invoice ID: 95
+[2025-05-12 19:57:04] Process booking started
+[2025-05-12 19:57:04] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_93] => 202505120093
+    [payment_method_93] => 
+    [payment_code_94] => 202505120094
+    [payment_method_94] => 
+    [payment_code_95] => OVO202505120095
+    [payment_method_95] => ovo
+)
+
+[2025-05-12 19:57:04] POST data: Array
+(
+    [kamar_dipilih] => 22
+    [checkin] => 2025-05-14
+    [checkout] => 2025-05-16
+    [payment_method] => ovo
+)
+
+[2025-05-12 19:57:04] User ID: 12
+[2025-05-12 19:57:04] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-11 02:09:42
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-12 19:57:04] Selected rooms: Array
+(
+    [0] => 22
+)
+
+[2025-05-12 19:57:04] Check-in: 2025-05-14, Check-out: 2025-05-16
+[2025-05-12 19:57:04] Transaction started
+[2025-05-12 19:57:04] Room details: Array
+(
+    [id_kamar] => 22
+    [nama] => Kamar 22
+    [bed] => Double
+    [keterangan] => Kamar nomor 22
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-12 19:57:04] Nights: 2, Subtotal: 600000
+[2025-05-12 19:57:04] Created invoice ID: 96
+[2025-05-12 19:57:04] Updated room status for room ID: 22
+[2025-05-12 19:57:04] Transaction committed successfully
+[2025-05-12 19:57:04] Process completed successfully with invoice ID: 96
+[2025-05-16 19:38:42] Process booking started
+[2025-05-16 19:38:42] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_93] => 202505120093
+    [payment_method_93] => 
+    [payment_code_94] => 202505120094
+    [payment_method_94] => 
+    [payment_code_95] => OVO202505120095
+    [payment_method_95] => ovo
+    [payment_code_96] => OVO202505120096
+    [payment_method_96] => ovo
+)
+
+[2025-05-16 19:38:42] POST data: Array
+(
+    [kamar_dipilih] => 25
+    [checkin] => 2025-05-18
+    [checkout] => 2025-05-20
+    [payment_method] => ovo
+    [total_harga] => 600000
+)
+
+[2025-05-16 19:38:42] User ID: 12
+[2025-05-16 19:38:42] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-11 02:09:42
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-16 19:38:42] Selected rooms: Array
+(
+    [0] => 25
+)
+
+[2025-05-16 19:38:42] Check-in: 2025-05-18, Check-out: 2025-05-20
+[2025-05-16 19:38:42] Transaction started
+[2025-05-16 19:38:42] Room details: Array
+(
+    [id_kamar] => 25
+    [nama] => Kamar 25
+    [bed] => Double
+    [keterangan] => Kamar nomor 25
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-16 19:38:42] Nights: 2, Subtotal: 600000
+[2025-05-16 19:38:42] Created invoice ID: 97
+[2025-05-16 19:38:42] Updated room status for room ID: 25
+[2025-05-16 19:38:42] Transaction committed successfully
+[2025-05-16 19:38:42] Process completed successfully with invoice ID: 97
+[2025-05-17 09:13:52] Process booking started
+[2025-05-17 09:13:52] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-17 09:13:52] POST data: Array
+(
+    [kamar_dipilih] => 34
+    [checkin] => 2025-05-18
+    [checkout] => 2025-05-21
+    [payment_method] => ovo
+    [total_harga] => 900000
+)
+
+[2025-05-17 09:13:52] User ID: 12
+[2025-05-17 09:13:52] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-17 01:00:20
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-17 09:13:52] Selected rooms: Array
+(
+    [0] => 34
+)
+
+[2025-05-17 09:13:52] Check-in: 2025-05-18, Check-out: 2025-05-21
+[2025-05-17 09:13:52] Transaction started
+[2025-05-17 09:13:52] Room details: Array
+(
+    [id_kamar] => 34
+    [nama] => Kamar 34
+    [bed] => Double
+    [keterangan] => Kamar nomor 34
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-17 09:13:52] Nights: 3, Subtotal: 900000
+[2025-05-17 09:13:52] Created invoice ID: 98
+[2025-05-17 09:13:52] Updated room status for room ID: 34
+[2025-05-17 09:13:52] Transaction committed successfully
+[2025-05-17 09:13:52] Process completed successfully with invoice ID: 98
+[2025-05-17 11:10:45] Process booking started
+[2025-05-17 11:10:45] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-17 11:10:45] POST data: Array
+(
+    [kamar_dipilih] => 4
+    [checkin] => 2025-05-18
+    [checkout] => 2025-05-20
+    [payment_method] => ovo
+    [total_harga] => 600000
+)
+
+[2025-05-17 11:10:45] User ID: 12
+[2025-05-17 11:10:45] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-17 01:00:20
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-17 11:10:45] Selected rooms: Array
+(
+    [0] => 4
+)
+
+[2025-05-17 11:10:45] Check-in: 2025-05-18, Check-out: 2025-05-20
+[2025-05-17 11:10:45] Transaction started
+[2025-05-17 11:10:45] Room details: Array
+(
+    [id_kamar] => 4
+    [nama] => Kamar 4
+    [bed] => Double
+    [keterangan] => Kamar nomor 4
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-17 11:10:45] Nights: 2, Subtotal: 600000
+[2025-05-17 11:10:45] Created invoice ID: 99
+[2025-05-17 11:10:45] Updated room status for room ID: 4
+[2025-05-17 11:10:45] Transaction committed successfully
+[2025-05-17 11:10:45] Process completed successfully with invoice ID: 99
+[2025-05-17 11:11:22] Process booking started
+[2025-05-17 11:11:22] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_99] => OVO202505170099
+    [payment_method_99] => ovo
+)
+
+[2025-05-17 11:11:22] POST data: Array
+(
+    [kamar_dipilih] => 7
+    [checkin] => 2025-05-19
+    [checkout] => 2025-05-22
+    [payment_method] => ovo
+    [total_harga] => 900000
+)
+
+[2025-05-17 11:11:22] User ID: 12
+[2025-05-17 11:11:22] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-17 01:00:20
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-17 11:11:22] Selected rooms: Array
+(
+    [0] => 7
+)
+
+[2025-05-17 11:11:23] Check-in: 2025-05-19, Check-out: 2025-05-22
+[2025-05-17 11:11:23] Transaction started
+[2025-05-17 11:11:23] Room details: Array
+(
+    [id_kamar] => 7
+    [nama] => Kamar 7
+    [bed] => Double
+    [keterangan] => Kamar nomor 7
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-17 11:11:23] Nights: 3, Subtotal: 900000
+[2025-05-17 11:11:23] Created invoice ID: 100
+[2025-05-17 11:11:23] Updated room status for room ID: 7
+[2025-05-17 11:11:23] Transaction committed successfully
+[2025-05-17 11:11:23] Process completed successfully with invoice ID: 100
+[2025-05-17 11:19:47] Process booking started
+[2025-05-17 11:19:47] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_99] => OVO202505170099
+    [payment_method_99] => ovo
+    [payment_code_100] => OVO202505170100
+    [payment_method_100] => ovo
+)
+
+[2025-05-17 11:19:47] POST data: Array
+(
+    [kamar_dipilih] => 10
+    [checkin] => 2025-05-18
+    [checkout] => 2025-05-20
+    [payment_method] => ovo
+    [total_harga] => 600000
+)
+
+[2025-05-17 11:19:47] User ID: 12
+[2025-05-17 11:19:47] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-17 01:00:20
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-17 11:19:47] Selected rooms: Array
+(
+    [0] => 10
+)
+
+[2025-05-17 11:19:47] Check-in: 2025-05-18, Check-out: 2025-05-20
+[2025-05-17 11:19:47] Transaction started
+[2025-05-17 11:19:47] Room details: Array
+(
+    [id_kamar] => 10
+    [nama] => Kamar 10
+    [bed] => Double
+    [keterangan] => Kamar nomor 10
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-17 11:19:47] Nights: 2, Subtotal: 600000
+[2025-05-17 11:19:47] Created invoice ID: 101
+[2025-05-17 11:19:47] Updated room status for room ID: 10
+[2025-05-17 11:19:47] Transaction committed successfully
+[2025-05-17 11:19:47] Process completed successfully with invoice ID: 101
+[2025-05-17 12:09:04] Process booking started
+[2025-05-17 12:09:04] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_99] => OVO202505170099
+    [payment_method_99] => ovo
+    [payment_code_100] => OVO202505170100
+    [payment_method_100] => ovo
+    [payment_code_101] => OVO202505170101
+    [payment_method_101] => ovo
+)
+
+[2025-05-17 12:09:04] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-19
+    [checkout] => 2025-05-21
+    [payment_method] => ovo
+    [total_harga] => 600000
+)
+
+[2025-05-17 12:09:04] User ID: 12
+[2025-05-17 12:09:04] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-17 01:00:20
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-17 12:09:04] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-17 12:09:04] Check-in: 2025-05-19, Check-out: 2025-05-21
+[2025-05-17 12:09:04] Transaction started
+[2025-05-17 12:09:04] Room details: Array
+(
+    [id_kamar] => 13
+    [nama] => Kamar 13
+    [bed] => Double
+    [keterangan] => Kamar nomor 13
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-17 12:09:04] Nights: 2, Subtotal: 600000
+[2025-05-17 12:09:04] Created invoice ID: 102
+[2025-05-17 12:09:04] Updated room status for room ID: 13
+[2025-05-17 12:09:04] Transaction committed successfully
+[2025-05-17 12:09:04] Process completed successfully with invoice ID: 102
+[2025-05-17 12:09:45] Process booking started
+[2025-05-17 12:09:45] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_99] => OVO202505170099
+    [payment_method_99] => ovo
+    [payment_code_100] => OVO202505170100
+    [payment_method_100] => ovo
+    [payment_code_101] => OVO202505170101
+    [payment_method_101] => ovo
+    [payment_code_102] => OVO202505170102
+    [payment_method_102] => ovo
+)
+
+[2025-05-17 12:09:45] POST data: Array
+(
+    [kamar_dipilih] => 16
+    [checkin] => 2025-05-20
+    [checkout] => 2025-05-22
+    [payment_method] => ovo
+    [total_harga] => 600000
+)
+
+[2025-05-17 12:09:45] User ID: 12
+[2025-05-17 12:09:45] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-17 01:00:20
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-17 12:09:45] Selected rooms: Array
+(
+    [0] => 16
+)
+
+[2025-05-17 12:09:45] Check-in: 2025-05-20, Check-out: 2025-05-22
+[2025-05-17 12:09:45] Transaction started
+[2025-05-17 12:09:45] Room details: Array
+(
+    [id_kamar] => 16
+    [nama] => Kamar 16
+    [bed] => Double
+    [keterangan] => Kamar nomor 16
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-17 12:09:45] Nights: 2, Subtotal: 600000
+[2025-05-17 12:09:45] Created invoice ID: 103
+[2025-05-17 12:09:45] Updated room status for room ID: 16
+[2025-05-17 12:09:45] Transaction committed successfully
+[2025-05-17 12:09:45] Process completed successfully with invoice ID: 103
+[2025-05-17 12:13:44] Process booking started
+[2025-05-17 12:13:44] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_99] => OVO202505170099
+    [payment_method_99] => ovo
+    [payment_code_100] => OVO202505170100
+    [payment_method_100] => ovo
+    [payment_code_101] => OVO202505170101
+    [payment_method_101] => ovo
+    [payment_code_102] => OVO202505170102
+    [payment_method_102] => ovo
+    [payment_code_103] => OVO202505170103
+    [payment_method_103] => ovo
+)
+
+[2025-05-17 12:13:44] POST data: Array
+(
+    [kamar_dipilih] => 22
+    [checkin] => 2025-05-21
+    [checkout] => 2025-05-23
+    [payment_method] => ovo
+    [total_harga] => 600000
+)
+
+[2025-05-17 12:13:44] User ID: 12
+[2025-05-17 12:13:44] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-17 01:00:20
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-17 12:13:44] Selected rooms: Array
+(
+    [0] => 22
+)
+
+[2025-05-17 12:13:44] Check-in: 2025-05-21, Check-out: 2025-05-23
+[2025-05-17 12:13:44] Transaction started
+[2025-05-17 12:13:44] Room details: Array
+(
+    [id_kamar] => 22
+    [nama] => Kamar 22
+    [bed] => Double
+    [keterangan] => Kamar nomor 22
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-17 12:13:44] Nights: 2, Subtotal: 600000
+[2025-05-17 12:13:44] Created invoice ID: 104
+[2025-05-17 12:13:44] Updated room status for room ID: 22
+[2025-05-17 12:13:44] Transaction committed successfully
+[2025-05-17 12:13:44] Process completed successfully with invoice ID: 104
+[2025-05-17 12:42:24] Process booking started
+[2025-05-17 12:42:24] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-17 12:42:24] POST data: Array
+(
+    [kamar_dipilih] => 4
+    [checkin] => 2025-05-18
+    [checkout] => 2025-05-22
+    [payment_method] => ovo
+    [total_harga] => 1200000
+)
+
+[2025-05-17 12:42:24] User ID: 12
+[2025-05-17 12:42:24] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-17 01:00:20
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-17 12:42:24] Selected rooms: Array
+(
+    [0] => 4
+)
+
+[2025-05-17 12:42:24] Check-in: 2025-05-18, Check-out: 2025-05-22
+[2025-05-17 12:42:24] Transaction started
+[2025-05-17 12:42:24] Room details: Array
+(
+    [id_kamar] => 4
+    [nama] => Kamar 4
+    [bed] => Double
+    [keterangan] => Kamar nomor 4
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-17 12:42:24] Nights: 4, Subtotal: 1200000
+[2025-05-17 12:42:24] Created invoice ID: 105
+[2025-05-17 12:42:24] Updated room status for room ID: 4
+[2025-05-17 12:42:24] Transaction committed successfully
+[2025-05-17 12:42:24] Process completed successfully with invoice ID: 105
+[2025-05-17 13:06:21] Process booking started
+[2025-05-17 13:06:21] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_105] => OVO202505170105
+    [payment_method_105] => ovo
+)
+
+[2025-05-17 13:06:21] POST data: Array
+(
+    [kamar_dipilih] => 7
+    [checkin] => 2025-05-18
+    [checkout] => 2025-05-20
+    [payment_method] => ovo
+    [total_harga] => 600000
+)
+
+[2025-05-17 13:06:21] User ID: 12
+[2025-05-17 13:06:21] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-17 01:00:20
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-17 13:06:21] Selected rooms: Array
+(
+    [0] => 7
+)
+
+[2025-05-17 13:06:21] Check-in: 2025-05-18, Check-out: 2025-05-20
+[2025-05-17 13:06:21] Transaction started
+[2025-05-17 13:06:21] Room details: Array
+(
+    [id_kamar] => 7
+    [nama] => Kamar 7
+    [bed] => Double
+    [keterangan] => Kamar nomor 7
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-17 13:06:21] Nights: 2, Subtotal: 600000
+[2025-05-17 13:06:21] Created invoice ID: 106
+[2025-05-17 13:06:21] Updated room status for room ID: 7
+[2025-05-17 13:06:21] Transaction committed successfully
+[2025-05-17 13:06:21] Process completed successfully with invoice ID: 106
+[2025-05-17 13:07:28] Process booking started
+[2025-05-17 13:07:28] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_105] => OVO202505170105
+    [payment_method_105] => ovo
+    [payment_code_106] => OVO202505170106
+    [payment_method_106] => ovo
+)
+
+[2025-05-17 13:07:28] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-19
+    [checkout] => 2025-05-21
+    [payment_method] => ovo
+    [total_harga] => 600000
+)
+
+[2025-05-17 13:07:28] User ID: 12
+[2025-05-17 13:07:28] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-17 01:00:20
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-17 13:07:28] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-17 13:07:28] Check-in: 2025-05-19, Check-out: 2025-05-21
+[2025-05-17 13:07:28] Transaction started
+[2025-05-17 13:07:28] Room details: Array
+(
+    [id_kamar] => 13
+    [nama] => Kamar 13
+    [bed] => Double
+    [keterangan] => Kamar nomor 13
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-17 13:07:28] Nights: 2, Subtotal: 600000
+[2025-05-17 13:07:28] Created invoice ID: 107
+[2025-05-17 13:07:28] Updated room status for room ID: 13
+[2025-05-17 13:07:28] Transaction committed successfully
+[2025-05-17 13:07:28] Process completed successfully with invoice ID: 107
+[2025-05-17 13:10:30] Process booking started
+[2025-05-17 13:10:30] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_105] => OVO202505170105
+    [payment_method_105] => ovo
+    [payment_code_106] => OVO202505170106
+    [payment_method_106] => ovo
+    [payment_code_107] => OVO202505170107
+    [payment_method_107] => ovo
+)
+
+[2025-05-17 13:10:30] POST data: Array
+(
+    [kamar_dipilih] => 20
+    [checkin] => 2025-05-18
+    [checkout] => 2025-05-20
+    [payment_method] => ovo
+    [total_harga] => 1000000
+)
+
+[2025-05-17 13:10:30] User ID: 12
+[2025-05-17 13:10:30] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/default.jpg
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-17 01:00:20
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => []
+    [unread_admin] => 0
+    [unread_user] => 0
+)
+
+[2025-05-17 13:10:30] Selected rooms: Array
+(
+    [0] => 20
+)
+
+[2025-05-17 13:10:30] Check-in: 2025-05-18, Check-out: 2025-05-20
+[2025-05-17 13:10:30] Transaction started
+[2025-05-17 13:10:30] Room details: Array
+(
+    [id_kamar] => 20
+    [nama] => Kamar 20
+    [bed] => Double
+    [keterangan] => Kamar nomor 20
+    [jenis] => Deluxe
+    [harga] => 500000.00
+    [status] => tersedia
+)
+
+[2025-05-17 13:10:30] Nights: 2, Subtotal: 1000000
+[2025-05-17 13:10:30] Created invoice ID: 108
+[2025-05-17 13:10:30] Updated room status for room ID: 20
+[2025-05-17 13:10:30] Transaction committed successfully
+[2025-05-17 13:10:30] Process completed successfully with invoice ID: 108
+[2025-05-22 02:42:57] Process booking started
+[2025-05-22 02:42:57] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-22 02:42:57] POST data: Array
+(
+    [kamar_dipilih] => 7
+    [checkin] => 2025-05-22
+    [checkout] => 2025-05-30
+    [payment_method] => gopay
+    [total_harga] => 2400000
+)
+
+[2025-05-22 02:42:57] User ID: 12
+[2025-05-22 02:42:57] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 14
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-22 02:42:57] Selected rooms: Array
+(
+    [0] => 7
+)
+
+[2025-05-22 02:42:57] Check-in: 2025-05-22, Check-out: 2025-05-30
+[2025-05-22 02:42:57] Check-in date in the past
+[2025-05-22 02:42:57] Error: Tanggal check-in tidak boleh kurang dari hari ini
+[2025-05-22 02:42:57] Stack trace: #0 {main}
+[2025-05-22 02:43:25] Process booking started
+[2025-05-22 02:43:25] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-22 02:43:25] POST data: Array
+(
+    [kamar_dipilih] => 7
+    [checkin] => 2025-05-24
+    [checkout] => 2025-06-01
+    [payment_method] => gopay
+    [total_harga] => 2400000
+)
+
+[2025-05-22 02:43:25] User ID: 12
+[2025-05-22 02:43:25] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 14
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-22 02:43:25] Selected rooms: Array
+(
+    [0] => 7
+)
+
+[2025-05-22 02:43:25] Check-in: 2025-05-24, Check-out: 2025-06-01
+[2025-05-22 02:43:25] Transaction started
+[2025-05-22 02:43:25] Room details: Array
+(
+    [id_kamar] => 7
+    [nama] => Kamar 7
+    [bed] => Double
+    [keterangan] => Kamar nomor 7
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-22 02:43:25] Nights: 8, Subtotal: 2400000
+[2025-05-22 02:43:25] Created invoice ID: 0
+[2025-05-22 02:43:25] Updated room status for room ID: 7
+[2025-05-22 02:43:25] Transaction committed successfully
+[2025-05-22 02:43:25] Process completed successfully with invoice ID: 0
+[2025-05-22 04:54:02] Process booking started
+[2025-05-22 04:54:02] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-22 04:54:02] POST data: Array
+(
+    [kamar_dipilih] => 10
+    [checkin] => 2025-05-23
+    [checkout] => 2025-05-25
+    [payment_method] => gopay
+    [total_harga] => 600000
+)
+
+[2025-05-22 04:54:02] User ID: 12
+[2025-05-22 04:54:02] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-22 04:54:02] Selected rooms: Array
+(
+    [0] => 10
+)
+
+[2025-05-22 04:54:02] Check-in: 2025-05-23, Check-out: 2025-05-25
+[2025-05-22 04:54:02] Transaction started
+[2025-05-22 04:54:02] Room details: Array
+(
+    [id_kamar] => 10
+    [nama] => Kamar 10
+    [bed] => Double
+    [keterangan] => Kamar nomor 10
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-22 04:54:02] Nights: 2, Subtotal: 600000
+[2025-05-22 04:54:02] Created invoice ID: 1
+[2025-05-22 04:54:02] Updated room status for room ID: 10
+[2025-05-22 04:54:02] Transaction committed successfully
+[2025-05-22 04:54:02] Process completed successfully with invoice ID: 1
+[2025-05-22 20:16:43] Process booking started
+[2025-05-22 20:16:43] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_1] => GOP202505220001
+    [payment_method_1] => gopay
+)
+
+[2025-05-22 20:16:43] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-22
+    [checkout] => 2025-06-07
+    [payment_method] => ovo
+    [total_harga] => 4800000
+)
+
+[2025-05-22 20:16:43] User ID: 12
+[2025-05-22 20:16:43] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-22 20:16:43] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-22 20:16:43] Check-in: 2025-05-22, Check-out: 2025-06-07
+[2025-05-22 20:16:43] Check-in date in the past
+[2025-05-22 20:16:43] Error: Tanggal check-in tidak boleh kurang dari hari ini
+[2025-05-22 20:16:43] Stack trace: #0 {main}
+[2025-05-22 20:17:04] Process booking started
+[2025-05-22 20:17:04] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_1] => GOP202505220001
+    [payment_method_1] => gopay
+)
+
+[2025-05-22 20:17:04] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-22
+    [checkout] => 2025-05-31
+    [payment_method] => ovo
+    [total_harga] => 2700000
+)
+
+[2025-05-22 20:17:04] User ID: 12
+[2025-05-22 20:17:04] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-22 20:17:04] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-22 20:17:04] Check-in: 2025-05-22, Check-out: 2025-05-31
+[2025-05-22 20:17:04] Check-in date in the past
+[2025-05-22 20:17:04] Error: Tanggal check-in tidak boleh kurang dari hari ini
+[2025-05-22 20:17:04] Stack trace: #0 {main}
+[2025-05-22 20:17:17] Process booking started
+[2025-05-22 20:17:17] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_1] => GOP202505220001
+    [payment_method_1] => gopay
+)
+
+[2025-05-22 20:17:17] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-22
+    [checkout] => 2025-05-25
+    [payment_method] => ovo
+    [total_harga] => 900000
+)
+
+[2025-05-22 20:17:17] User ID: 12
+[2025-05-22 20:17:17] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-22 20:17:17] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-22 20:17:17] Check-in: 2025-05-22, Check-out: 2025-05-25
+[2025-05-22 20:17:17] Check-in date in the past
+[2025-05-22 20:17:17] Error: Tanggal check-in tidak boleh kurang dari hari ini
+[2025-05-22 20:17:17] Stack trace: #0 {main}
+[2025-05-22 20:22:56] Process booking started
+[2025-05-22 20:22:56] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_1] => GOP202505220001
+    [payment_method_1] => gopay
+)
+
+[2025-05-22 20:22:56] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-22
+    [checkout] => 2025-05-25
+    [payment_method] => ovo
+    [total_harga] => 900000
+)
+
+[2025-05-22 20:22:56] User ID: 12
+[2025-05-22 20:22:56] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-22 20:22:56] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-22 20:22:56] Check-in: 2025-05-22, Check-out: 2025-05-25
+[2025-05-22 20:22:56] Check-in date in the past
+[2025-05-22 20:22:56] Error: Tanggal check-in tidak boleh kurang dari hari ini
+[2025-05-22 20:22:56] Stack trace: #0 {main}
+[2025-05-22 20:34:49] Process booking started
+[2025-05-22 20:34:49] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_1] => GOP202505220001
+    [payment_method_1] => gopay
+)
+
+[2025-05-22 20:34:49] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-22
+    [checkout] => 2025-06-20
+    [payment_method] => ovo
+    [total_harga] => 8700000
+)
+
+[2025-05-22 20:34:49] User ID: 12
+[2025-05-22 20:34:49] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-22 20:34:49] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-22 20:34:49] Check-in: 2025-05-22, Check-out: 2025-06-20
+[2025-05-22 20:34:49] Check-in date in the past
+[2025-05-22 20:34:49] Error: Tanggal check-in tidak boleh kurang dari hari ini
+[2025-05-22 20:34:49] Stack trace: #0 {main}
+[2025-05-22 20:35:29] Process booking started
+[2025-05-22 20:35:29] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_1] => GOP202505220001
+    [payment_method_1] => gopay
+)
+
+[2025-05-22 20:35:29] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-22
+    [checkout] => 2025-05-27
+    [payment_method] => ovo
+    [total_harga] => 1500000
+)
+
+[2025-05-22 20:35:29] User ID: 12
+[2025-05-22 20:35:29] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-22 20:35:29] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-22 20:35:29] Check-in: 2025-05-22, Check-out: 2025-05-27
+[2025-05-22 20:35:29] Check-in date in the past
+[2025-05-22 20:35:29] Error: Tanggal check-in tidak boleh kurang dari hari ini
+[2025-05-22 20:35:29] Stack trace: #0 {main}
+[2025-05-22 20:46:16] Process booking started
+[2025-05-22 20:46:16] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_1] => GOP202505220001
+    [payment_method_1] => gopay
+)
+
+[2025-05-22 20:46:16] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-22
+    [checkout] => 2025-05-24
+    [payment_method] => ovo
+    [total_harga] => 600000
+)
+
+[2025-05-22 20:46:16] User ID: 12
+[2025-05-22 20:46:16] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-22 20:46:16] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-22 20:46:16] Check-in: 2025-05-22, Check-out: 2025-05-24
+[2025-05-22 20:46:16] Check-in date in the past
+[2025-05-22 20:46:16] Error: Tanggal check-in tidak boleh kurang dari hari ini
+[2025-05-22 20:46:16] Stack trace: #0 {main}
+[2025-05-22 20:46:35] Process booking started
+[2025-05-22 20:46:35] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_1] => GOP202505220001
+    [payment_method_1] => gopay
+)
+
+[2025-05-22 20:46:35] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-22
+    [checkout] => 2025-05-29
+    [payment_method] => ovo
+    [total_harga] => 2100000
+)
+
+[2025-05-22 20:46:35] User ID: 12
+[2025-05-22 20:46:35] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-22 20:46:35] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-22 20:46:35] Check-in: 2025-05-22, Check-out: 2025-05-29
+[2025-05-22 20:46:35] Check-in date in the past
+[2025-05-22 20:46:35] Error: Tanggal check-in tidak boleh kurang dari hari ini
+[2025-05-22 20:46:35] Stack trace: #0 {main}
+[2025-05-22 20:54:40] Process booking started
+[2025-05-22 20:54:40] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_1] => GOP202505220001
+    [payment_method_1] => gopay
+)
+
+[2025-05-22 20:54:40] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-22
+    [checkout] => 2025-05-27
+    [payment_method] => ovo
+    [total_harga] => 1500000
+)
+
+[2025-05-22 20:54:40] User ID: 12
+[2025-05-22 20:54:40] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-22 20:54:40] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-22 20:54:40] Check-in: 2025-05-22, Check-out: 2025-05-27
+[2025-05-22 20:54:40] Check-in date in the past
+[2025-05-22 20:54:40] Error: Tanggal check-in tidak boleh kurang dari hari ini
+[2025-05-22 20:54:40] Stack trace: #0 {main}
+[2025-05-22 20:54:46] Process booking started
+[2025-05-22 20:54:46] Session data: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [lv] => user
+    [logged_in] => 1
+    [payment_code_1] => GOP202505220001
+    [payment_method_1] => gopay
+)
+
+[2025-05-22 20:54:46] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-22
+    [checkout] => 2025-05-27
+    [payment_method] => ovo
+    [total_harga] => 1500000
+)
+
+[2025-05-22 20:54:46] User ID: 12
+[2025-05-22 20:54:46] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-22 20:54:46] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-22 20:54:46] Check-in: 2025-05-22, Check-out: 2025-05-27
+[2025-05-22 20:54:46] Check-in date in the past
+[2025-05-22 20:54:46] Error: Tanggal check-in tidak boleh kurang dari hari ini
+[2025-05-22 20:54:46] Stack trace: #0 {main}
+[2025-05-24 20:36:09] Process booking started
+[2025-05-24 20:36:09] Session data: Array
+(
+    [id_petugas] => 123456
+    [username] => Nicho1211
+    [level] => admin
+    [id_user] => 12
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-24 20:36:09] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-24
+    [checkout] => 2025-05-31
+    [payment_method] => mandiri
+    [total_harga] => 2100000
+    [is_today_booking] => 1
+)
+
+[2025-05-24 20:36:09] User ID: 12
+[2025-05-24 20:36:09] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-24 20:36:09] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-24 20:36:09] Check-in: 2025-05-24, Check-out: 2025-05-31
+[2025-05-24 20:36:09] Check-in date in the past
+[2025-05-24 20:36:09] Error: Tanggal check-in tidak boleh kurang dari hari ini
+[2025-05-24 20:36:09] Stack trace: #0 {main}
+[2025-05-24 21:15:45] Process booking started
+[2025-05-24 21:15:45] Session data: Array
+(
+    [id_petugas] => 123456
+    [username] => Nicho1211
+    [level] => admin
+    [id_user] => 12
+    [lv] => user
+    [logged_in] => 1
+)
+
+[2025-05-24 21:15:45] POST data: Array
+(
+    [kamar_dipilih] => 13
+    [checkin] => 2025-05-30
+    [checkout] => 2025-06-01
+    [payment_method] => ovo
+    [total_harga] => 600000
+)
+
+[2025-05-24 21:15:45] User ID: 12
+[2025-05-24 21:15:45] User data retrieved: Array
+(
+    [id_user] => 12
+    [username] => Nicho1211
+    [password] => $2y$10$2cKZOJIvsYx2GAUsoJq5zOdYS4fVlwGvJLtji3nKUosVScc.PExxK
+    [lv] => user
+    [profile_image] => uploads/Screenshot 2025-05-15 160227.png
+    [email] => nicho32@gmail.com
+    [nik] => 0078692649
+    [nama] => Nicho1111
+    [alamat] => jl.Nanas no.1 rt:05/04 kramat slatan
+(belakang pegadaian syariah persis rumah kuning ada kursi bambunya)
+    [last_online] => 2025-05-20 09:28:36
+    [is_online] => 0
+    [last_login] => 
+    [is_active] => 1
+    [chat_history] => [{"id":"682bcaa9aa191","from":"12","to":"1","message":"1111","time":"2025-05-20 02:19:53","status":"terkirim","lampiran":[]},{"id":"682bcab2550ee","from":"12","to":"1","message":"222","time":"2025-05-20 02:20:02","status":"terkirim","lampiran":[]},{"id":"682bf27904801","from":"12","to":"1","message":"aaa","time":"2025-05-20 05:09:45","status":"terkirim","lampiran":[]},{"id":"682bf27df0af5","from":"12","to":"1","message":"sss","time":"2025-05-20 05:09:49","status":"terkirim","lampiran":[]},{"id":"682c0d266ced2","from":"12","to":"1","message":"ppp","time":"2025-05-20 07:03:34","status":"terkirim","lampiran":[]},{"id":"682c108295202","from":"12","to":"1","message":"sss","time":"2025-05-20 07:17:54","status":"terkirim","lampiran":[]},{"id":"682c10891f51f","from":"12","to":"1","message":"sss","time":"2025-05-20 07:18:01","status":"terkirim","lampiran":[]},{"id":"682c12ec0d859","from":"12","to":"1","message":"222","time":"2025-05-20 07:28:12","status":"terkirim","lampiran":[]},{"id":"682c12f0bd0a7","from":"12","to":"1","message":"444","time":"2025-05-20 07:28:16","status":"terkirim","lampiran":[]},{"id":"682c196d0ea8d","from":"12","to":"1","message":"88","time":"2025-05-20 07:55:57","status":"terkirim","lampiran":[]},{"id":"682c1974677d4","from":"12","to":"1","message":"00","time":"2025-05-20 07:56:04","status":"terkirim","lampiran":[]},{"id":"682c19ae7ec65","from":"12","to":"1","message":"666","time":"2025-05-20 07:57:02","status":"terkirim","lampiran":[]},{"id":"682c1aec00d93","from":"12","to":"1","message":"lll","time":"2025-05-20 08:02:20","status":"terkirim","lampiran":[]},{"id":"682c1e51b663a","from":"12","to":"1","message":"aaaa","time":"2025-05-20 08:16:49","status":"terkirim","lampiran":[]}]
+    [unread_admin] => 0
+    [unread_user] => 0
+    [kategori_feedback] => service
+    [judul_feedback] => aaaaa
+    [pesan_feedback] => aaaaa
+    [rating_feedback] => 5
+    [lampiran_feedback] => uploads/1747710537_Screenshot 2024-12-12 203032.png
+    [status_feedback] => baru
+    [tgl_submit_feedback] => 2025-05-20 10:08:57
+    [tgl_update_feedback] => 
+)
+
+[2025-05-24 21:15:45] Selected rooms: Array
+(
+    [0] => 13
+)
+
+[2025-05-24 21:15:45] Check-in: 2025-05-30, Check-out: 2025-06-01
+[2025-05-24 21:15:45] Transaction started
+[2025-05-24 21:15:45] Room details: Array
+(
+    [id_kamar] => 13
+    [nama] => Kamar 13
+    [bed] => Double
+    [keterangan] => Kamar nomor 13
+    [jenis] => Standard
+    [harga] => 300000.00
+    [status] => tersedia
+)
+
+[2025-05-24 21:15:45] Nights: 2, Subtotal: 600000
+[2025-05-24 21:15:45] Created invoice ID: 2
+[2025-05-24 21:15:45] Updated room status for room ID: 13
+[2025-05-24 21:15:45] Transaction committed successfully
+[2025-05-24 21:15:45] Process completed successfully with invoice ID: 2
